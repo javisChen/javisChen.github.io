@@ -7,7 +7,7 @@ module.exports = {
     theme: defaultTheme({
         navbar: [
             {
-                text: 'AboutMe', link: '/'
+                text: 'AboutMe', link: '/resume/'
             },
             {
                 text: '理想架构', link: '/guide/'
