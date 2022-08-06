@@ -1,0 +1,13 @@
+node_modules
+.temp
+.cache
+
+yarn-error.log
+yarn.lock
+*.iml
+.idea
+
+assets
+404.html
+index.html
+docs/.vuepress/dist
